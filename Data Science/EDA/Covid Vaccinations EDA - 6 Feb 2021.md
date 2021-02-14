@@ -4,7 +4,7 @@ Here are some quick Covid-19 Worldwide Vaccination Exploratory Data Analysis. Th
 ## Data Description
 As per date, there are `8 vaccine types` used in `78 countries`. Some country only rely on one type but there is one country that is three types of vaccine. `Pfizer/BioNTech` is the most used wordwide followed by `Oxford/AstraZeneca` as shown in figure below.
 
-![vaccine type](https://github.com/akbarnotopb/portofolio/blob/main/Data%20Science/EDA/covid-resources/vaccine%20type%20used%20and%20its%20country%20count.PNG "Vaccination Type")
+![vaccine type](https://raw.githubusercontent.com/akbarnotopb/portofolio/main/Data%20Science/EDA/covid-resources/vaccine%20type%20used%20and%20its%20country%20count.PNG "Vaccination Type")
 
 
 ## Vaccination Progres
