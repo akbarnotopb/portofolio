@@ -1,12 +1,14 @@
 # Quick Overview of Covid Worldwide Vaccination
 Here are some quick Covid-19 Worldwide Vaccination Exploratory Data Analysis. The datas used in this EDA are available [Online](https://www.kaggle.com/gpreda/covid-world-vaccination-progress, "Kaggle Covid 19 Wolrd Vaccination Progress"). The datasets itself are updated regularly. In our scenario, we will use the latest version ( 6 February 2021 ).
 
-## Data Description
-As per date, there are `8 vaccine types` used in `78 countries`. Some country only rely on one type but there is one country that is three types of vaccine. `Pfizer/BioNTech` is the most used wordwide followed by `Oxford/AstraZeneca` as shown in figure below.
+## About Vaccine
+As per date, there are `8 vaccine types` used in `78 countries`. `Pfizer/BioNTech` is the most used wordwide followed by `Oxford/AstraZeneca` as shown in figure below.
 
 ![vaccine type](https://raw.githubusercontent.com/akbarnotopb/portofolio/main/Data%20Science/EDA/covid-resources/vaccine%20type%20used%20and%20its%20country%20count.PNG "Vaccination Type")
 
+Most country only rely on one type but there is one country that is three types of vaccine, meanwhile the other are using 2 type of vaccines. More detail about how many vaccine used in 78 countries are shown below.
 
+![vaccine type in hundred](https://github.com/akbarnotopb/portofolio/blob/main/Data%20Science/EDA/covid-resources/how%20many%20vaccine%20used%20in%20each%20country%20in%20hundred.PNG "Vaccination Type in Hundred")
 
 ## Vaccination Progres
 ### How vaccinations are progressing around the globe?
@@ -49,4 +51,12 @@ For simplicity, let's take 2 for each category. Highest 2 namely `United States`
 From the chart above, we can infer that:
 1. The 2 highest vaccinated country started its vaccinating program earlier, meanwhile `Luxembourg` and `Iceland` started at the end of 2020
 2. Both `United States` and `China` vaccinating program increasing linearly, but `Luxembourg` and `Iceland` stuck at 1000 people each day and tends to slow down
-3. All countries except `Luxembourg` uses 2 type of vaccines, and as the types used the number of daily vaccination increases.
+3. All countries except `Luxembourg` uses 2 type of vaccines, and two vaccince type increase the daily vaccination number.
+
+## Summary
+Well yeah, there aren't much meaningful datas except how each country progress their vaccination based on this raw data. But here are some insight that can be infered from this quick analysis as per date ( 6 Feb 2021 data)
+
+1. `United States` is the country that does the most vaccination, followed by `China`.
+2.  Most country using only one type of vaccine so far (will be updated about the precentage of vaccine type used).
+3. `Pfizer/BioNTech` is the most common vaccine type used, `61 out of 78` countries use this vaccine type.
+4. Further Data Engineering and Data Analysis might be required to gain deeper knowledges, such as when each country will achieve herd immunity ( 70% people fully vaccinated ) 
