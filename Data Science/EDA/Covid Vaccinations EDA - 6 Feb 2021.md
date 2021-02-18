@@ -27,18 +27,18 @@ To answer those question, we need further processing such as `separation` as the
 
 Here are the `10 highest` and `least 10` country. 
 
-No | 10 Highest |  10 Least
---- | --- | --- 
-1 | United States | Bangladesh 
-2 | China | Andorra  
-3 | United Kingdom | Greenland  
-4 | England | Faeroe Islands  
-5 | United Arab Emirates | Bermuda  
-6 | Israel | Guernsey  
-7 | Brazil |  Isle of Man 
-8 | Germany | Jersey 
-9 | France | Luxembourg 
-10 | Italy | Iceland 
+| No | 10 Highest |  10 Least |
+| - | - | - |
+| 1 | United States | Bangladesh |
+| 2 | China | Andorra | 
+| 3 | United Kingdom | Greenland |
+| 4 | England | Faeroe Islands |
+| 5 | United Arab Emirates | Bermuda |
+| 6 | Israel | Guernsey |
+| 7 | Brazil |  Isle of Man |
+| 8 | Germany | Jersey |
+| 9 | France | Luxembourg |
+| 10 | Italy | Iceland |
 
 
 ### How is their vaccination program? How is their daily number?
