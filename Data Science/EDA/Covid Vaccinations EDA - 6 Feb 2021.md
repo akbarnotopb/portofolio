@@ -30,7 +30,7 @@ Here are the `10 highest` and `least 10` country.
 | No | 10 Highest |  10 Least |
 | - | - | - |
 | 1 | United States | Bangladesh |
-| 2 | China | Andorra | 
+| 2 | China | Andorra |
 | 3 | United Kingdom | Greenland |
 | 4 | England | Faeroe Islands |
 | 5 | United Arab Emirates | Bermuda |
